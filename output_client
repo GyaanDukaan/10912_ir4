@@ -1,0 +1,10 @@
+root@jravi:/home/jravi# g++ -o main1 main1.cpp
+root@jravi:/home/jravi# ./main1
+Connecting to server...
+Request sent: insertBid
+No response or connection closed by server
+Request sent: insertAsk
+No response or connection closed by server
+Request sent: displayOrderBook
+No response or connection closed by server
+root@jravi:/home/jravi# 
